@@ -24,3 +24,4 @@ To get started with the project, follow the instructions below:
    2. instal dependecies - npm install
    3. Run the application - npm run dev
    4. open your Browser - http://localhost:5173
+5. deploy link - https://healthcare-app-inky.vercel.app/
