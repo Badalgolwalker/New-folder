@@ -18,7 +18,7 @@ To get started with the project, follow the instructions below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/healthcare-services-app.git
+   git clone https://github.com/Badalgolwalker/healthcare-app
 
 
    2. instal dependecies - npm install
